@@ -1,0 +1,6 @@
+!pip install -q langchain
+!pip install -q torch
+!pip install -q transformers
+!pip install -q sentence-transformers
+!pip install -q datasets
+!pip install -q faiss-cpu
